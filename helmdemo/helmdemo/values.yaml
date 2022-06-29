@@ -1,5 +1,5 @@
 namespace:
-  name:  dev
+  name:  istio-system
 
 deployment:
   replicacount: 2
